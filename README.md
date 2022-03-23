@@ -70,4 +70,4 @@ Released under the [GPL-3.0 License](https://github.com/ZynerOrg/xyter/blob/mast
 ## 📜 Credits
 * **[Vermium#9649](https://github.com/VermiumSifell)** - Founder, creator, hoster.
 * **[Mastergamer433#5762](https://github.com/Mastergamer433)** - Work command for credits.
-* * Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/ZynerOrg/xyter/blob/master/docs/CONTRIBUTING.md).
+* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/ZynerOrg/xyter/blob/master/docs/CONTRIBUTING.md).
